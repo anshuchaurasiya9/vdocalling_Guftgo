@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "289875876109",
+    "project_id": "vdocalling-guftgo",
+    "storage_bucket": "vdocalling-guftgo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289875876109:android:e1258018202c9c1d03b844",
+        "android_client_info": {
+          "package_name": "com.example.vdocalling_guftgo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "289875876109-v3kb7u40kv3e47gb0p01qbao0je5v2el.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9DmgyCUNzxbzmkCIjyAQId4EYoaSKo0Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "289875876109-v3kb7u40kv3e47gb0p01qbao0je5v2el.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
